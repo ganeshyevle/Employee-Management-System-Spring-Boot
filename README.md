@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#Screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -30,6 +31,11 @@ This is a simple Employee Management System built using Spring Boot. The goal of
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa): Provides easy data access using the Java Persistence API (JPA).
 - [Thymeleaf](https://www.thymeleaf.org/): A modern server-side Java template engine for web and standalone environments.
 - [H2 Database](https://www.h2database.com/): An in-memory database for development and testing.
+
+## Screenshots
+
+![Screenshot Employee Management System](https://github.com/ganeshyevle/Employee-Management-System-Spring-Boot/raw/master/Screenshot%20EMS%20Spring%20Boot.png)
+
 
 ## Getting Started
 
